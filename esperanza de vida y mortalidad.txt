@@ -1,0 +1,6 @@
+En este proyecto se requiere realizar una análisis  que permita identificar
+la población de los diferentes países y los continentes. En segundo
+lugar se debe entregar un reporte que permita medir la esperanza
+de vida y la mortalidad infantil que permita identificar el
+comportamiento de estos dos indicadores en los diferentes países
+y continentes.
